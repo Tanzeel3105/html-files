@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <head>
-  <title></title>
+  <meta lang="UTF-8">
   </head>
   <body>
   <h1>hello world</h1>
